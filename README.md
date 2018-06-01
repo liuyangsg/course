@@ -20,7 +20,7 @@ http://blog.51cto.com/manual
 
 2.# git clone https://github.com/redhatedu/course      //(完整下载,第一次使用必须操作)
 
-3.# git pull  	                      //(更新下载,必须在course目录下执行)
+3.# git pull  	                   cgs   //(更新下载,必须在course目录下执行)
 
 4.# git checkout 文件名			      //(仅下载某个文件,必须在course目录下执行)
 
